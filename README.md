@@ -23,7 +23,7 @@ Aplicativo simples de cronômetro desenvolvido em **React Native**, com as funç
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/cronometro-app.git
+git clone https://github.com/emillyroar/cronometroApp.git
 cd cronometro-app
 ````
 
