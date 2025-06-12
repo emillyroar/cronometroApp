@@ -16,7 +16,7 @@ Aplicativo simples de cronômetro desenvolvido em **React Native**, com as funç
 - Ícone de relógio no topo
 - Tempo centralizado
 - Três botões com ações básicas
-- 
+
 
 ## 🚀 Como Executar
 
